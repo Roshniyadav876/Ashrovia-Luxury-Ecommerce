@@ -20,7 +20,7 @@ function Navbar() {
         <div className={style.navbar}>
             <div className={style.nav_logo}>
                 <img src={logo} alt="" />
-                <p>SHOPPER</p>
+                <p>Ashrovia-Luxury</p>
             </div>
 
             <CiMenuFries 
