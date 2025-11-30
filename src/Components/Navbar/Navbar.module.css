@@ -86,7 +86,7 @@
     cursor: pointer
 }
 
-@media(max-width: 1280px) {
+/* @media(max-width: 1280px) {
     .navbar {
         padding:12px 50px
     }
@@ -188,4 +188,4 @@
     .login {
         transform: scale(.8)
     }
-}
+} */
