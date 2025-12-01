@@ -46,12 +46,11 @@
     font-size: 22px;
     font-weight: 500;
 }
-.hero_right{
+.hero_right img{
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 700px;
 }
 
 /* .hero_left {
