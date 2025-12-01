@@ -1,8 +1,8 @@
 import './App.css';
-import '../Pages/CSS/LoginSignUp.css'
-import './CSS/ShopCategory.css'
-import './Footer.css'
-import './Hero.css'
+import './Pages/CSS/LoginSignUp.css'
+import './Pages/CSS/ShopCategory.css'
+import './Components/Footer/Footer.css'
+import './Components/Hero/Hero.css'
 import Navbar from './Components/Navbar/Navbar';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Shop from './Pages/Shop';
