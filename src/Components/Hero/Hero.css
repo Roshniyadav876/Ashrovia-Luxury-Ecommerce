@@ -49,11 +49,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 500px;
 }
-
-
-
-
 @media (max-width:1280px) {
     .hero_left{
         padding-left: 100px;
