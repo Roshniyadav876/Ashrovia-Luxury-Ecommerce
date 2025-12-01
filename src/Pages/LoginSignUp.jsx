@@ -1,5 +1,4 @@
 import React from 'react'
-import '../Pages/CSS/LoginSignUp.css'
 function LoginSignUp() {
   return (
     <div className='loginSignUp'>
